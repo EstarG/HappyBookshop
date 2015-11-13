@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+#toppic{
+	background-image:url(images/weibo_02.gif);
+
+    width:1240px;
+	height:100px;
+  	margin-top:0px;
+}
+#bookimage{
+	
+    width:250px;
+    height:400px;	
+    float:left;
+	margin-left:200px;
+	margin-top:50px;
+}
+#detail{
+    width:600px;
+    height:400px;
+    float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+#bookcartone{
+width:500px;
+height:20px;
+float:left;
+margin-left:400px;
+}
+#bookcarttwo{
+width:50px;
+height:20px;
+float:left;
+}
+#bookcart{
+width:900x;
+height:20px;
+
+}#bookcartS{
+width:800x;
+height:20px;
+margin-left:250px;
+float:left;
+}
+
+
+
+#left{
+	float:left;
+	width:303px;
+	height:1970px;
+	margin-top:50px;
+	margin-bottom:0px;
+	margin-left:20px;
+	}  
+.xmenu td
+{
+font-size:12px;
+font-family:verdana,arial;
+font-weight:bolder;
+color:#ffffff;
+border:1px solid #336699;
+background:#336699;
+filter:blendtrans(duration=0.5);
+cursor:hand;
+text-align:center;
+}
+#righttop{
+	float:left;
+	width:303px;
+	height:100px;
+	margin-top:30px;
+	margin-bottom:0px;
+	margin-left:70px;
+	}  
